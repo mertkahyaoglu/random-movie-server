@@ -1,0 +1,27 @@
+{
+  "name": "random-movie-server",
+  "version": "1.0.0",
+  "description": "Node server for Random Movie Webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mertkahyaoglu/random-movie-server.git"
+  },
+  "author": "Mert Kahyaoğlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mertkahyaoglu/random-movie-server/issues"
+  },
+  "homepage": "https://github.com/mertkahyaoglu/random-movie-server",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0",
+    "express-method-override": "0.0.3",
+    "node-movie": "^1.1.1",
+    "random-movie": "^1.2.0"
+  }
+}
