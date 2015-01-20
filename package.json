@@ -1,6 +1,6 @@
 {
   "name": "random-movie-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node server for Random Movie Webpage random-movie.github.io",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
     "express": "^4.11.0",
     "express-method-override": "0.0.3",
     "node-movie": "^1.1.1",
-    "random-movie": "^1.2.0"
+    "random-movie": "^1.2.1"
   }
 }
