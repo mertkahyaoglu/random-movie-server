@@ -1,7 +1,7 @@
 {
   "name": "random-movie-server",
   "version": "1.0.0",
-  "description": "Node server for Random Movie Webpage",
+  "description": "Node server for Random Movie Webpage random-movie.github.io",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
