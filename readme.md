@@ -1,8 +1,6 @@
-# random-movie-server
+# [Go to Random Movie API](https://random-movie.herokuapp.com)
 
 > Node server for Random Movie
-
-> Start server: npm start
 
 ## API
 
