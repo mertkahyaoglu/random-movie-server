@@ -1,6 +1,4 @@
-# [Go to Random Movie API](https://random-movie.herokuapp.com)
-
-> Node server for Random Movie [random-movie.github.io](http://random-movie.github.io/)
+# [Visit Random Movie API](https://random-movie.herokuapp.com)
 
 > Starting server ```npm start```
 
