@@ -1,7 +1,7 @@
-# [Visit Random Movie API](https://random-movie.herokuapp.com)
+# Random Movie API
 
-> Starting server ```npm start```
+> Starting dev server `now dev`
 
 ## License
 
-MIT © Mert Kahyaoğlu 2015
+MIT © Mert Kahyaoğlu 2019

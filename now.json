@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "random-movie",
+  "builds": [
+    { "src": "www/**/*", "use": "@now/static" },
+    { "src": "api/**/*.js", "use": "@now/node" }
+  ],
+  "routes": [
+    { "src": "/api/title/(?<title>[^/]+)", "dest": "api/movie.js" },
+    { "src": "/api/id/(?<id>[^/]+)", "dest": "api/movie.js" },
+    { "src": "/(.*)", "dest": "api/movie.js" }
+  ]
+}
