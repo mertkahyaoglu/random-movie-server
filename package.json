@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.18.0",
     "node-fetch": "^2.6.0",
     "node-movie": "^3.0.0"
